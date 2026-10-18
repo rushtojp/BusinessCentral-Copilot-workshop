@@ -1,1 +1,3 @@
+Business central free account creation
 
+https://learn.microsoft.com/en-us/training/modules/trial-dynamics-365-business-central/
