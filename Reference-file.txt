@@ -13,4 +13,8 @@ MB-820 course labs
 
 https://github.com/MicrosoftLearning/MB-820-Business-Central-Developer-Certification
 
+promptdiaglog - page type
+
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-page-type-promptdialog
+
 
