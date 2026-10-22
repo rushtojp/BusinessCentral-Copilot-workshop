@@ -9,4 +9,8 @@ https://microsoftlearning.github.io/MB-800-Business-Central-Functional-Consultan
 
 https://learn.microsoft.com/en-us/training/courses/mb-800t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=5435823
 
+MB-820 course labs
+
+https://github.com/MicrosoftLearning/MB-820-Business-Central-Developer-Certification
+
 
