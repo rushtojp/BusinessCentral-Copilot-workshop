@@ -32,6 +32,10 @@ https://github.com/Microsoft/bctech
 BC Quality
 https://github.com/microsoft/bcquality
 
+BC agent resources for partners
+
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-ready-to-go
+
 
 https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-ai-agent-tools-al-development
 
