@@ -21,4 +21,10 @@ Github Copilot - repos
 
 https://github.com/skills/getting-started-with-github-copilot
 
+AL devt tools
+
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/al-agent-tools/al-agent-tools-overview
+
+https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-ai-agent-tools-al-development
+
 
