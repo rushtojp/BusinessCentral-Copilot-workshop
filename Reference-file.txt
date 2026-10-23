@@ -17,4 +17,8 @@ promptdiaglog - page type
 
 https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-page-type-promptdialog
 
+Github Copilot - repos
+
+https://github.com/skills/getting-started-with-github-copilot
+
 
