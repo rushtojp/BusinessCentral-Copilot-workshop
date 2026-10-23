@@ -39,4 +39,8 @@ https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/develop
 
 https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-ai-agent-tools-al-development
 
+BC reference sources
+
+https://yzhums.com/28916/
+
 
