@@ -25,6 +25,14 @@ AL devt tools
 
 https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/al-agent-tools/al-agent-tools-overview
 
+BC Tech Agent
+Agent Development
+https://github.com/Microsoft/bctech
+
+BC Quality
+https://github.com/microsoft/bcquality
+
+
 https://learn.microsoft.com/en-us/dynamics365/release-plan/2026wave1/smb/dynamics365-business-central/use-ai-agent-tools-al-development
 
 
